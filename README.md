@@ -1,4 +1,4 @@
-<div align=center><img width="150" height="150" src="./Pics/mineself.png"/></div>
+<div align=center><img width="200" height="210" src="./Pics/mineself.png"/></div>
 
 # Mineself
 
