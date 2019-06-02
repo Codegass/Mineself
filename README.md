@@ -7,7 +7,7 @@ A service for deeply self-designed GTD and self time calculation workflow. Devel
 ## Plan
 The Structure Plan Version 0.0.1
 
-![Mineself Service Plan]('./Pics/Mineself_Design.png')
+![Mineself Service Plan](./Pics/Mineself_Design.png)
 
 Three Main Parts:
 * service part for ML give advice.
