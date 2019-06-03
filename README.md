@@ -1,6 +1,6 @@
 <div align=center><img width="200" height="210" src="./Pics/mineself.png"/></div>
 
-# Mineself
+# <div align=center> Mineself</div>
 
 A service for deeply self-designed GTD and self time calculation workflow. Developed by Codegass Wei.
 
